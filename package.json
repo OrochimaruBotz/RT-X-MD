@@ -31,7 +31,7 @@
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
-        "@adiwajshing/baileys": "github:BOTCAHX/baileys",
+        "@adiwajshing/baileys": "@adiwajshing/baileys@5.0.2",
         "@bochilteam/scraper": "^3.0.0",
         "awesome-phonenumber": "^2.68.0",
         "axios": "^0.24.0",
